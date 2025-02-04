@@ -1,10 +1,8 @@
 ---
-title: Sanjiv Ranchod Personal Webpage
+title: Sanjiv Ranchod
 ---
 
-# Dr. [Full Name] - [Position/Title]
-
-[Short introduction about yourself, e.g., your academic interests, research focus, and professional background.]
+I am a PhD student in Category Theory at the University of Cambridge, under the supervision on Professor Marcelo Fiore. My research interests are in Categorical Logic and Categorical Algebra. 
 
 ---
 
