@@ -13,11 +13,12 @@ talks:
   - title: "Substructural Abstract Syntax with Variable Binding and Single-Variable Substitution"
     event: "Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)"
     location: "Singapore"
-    upcoming: true
+    upcoming: false
     year: 2025
     date: 20250624
     type: "Contributed Talk"
     link: "https://lics.siglog.org/lics25/index.php"
+    slides: "assets/pdf/LICS_2025_Slides.pdf"
 
   - title: "Substitution for Linear-Cartesian and Full Substructural Theories"
     event: "ItaCa Fest"
