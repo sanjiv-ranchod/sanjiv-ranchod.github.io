@@ -55,7 +55,7 @@ layout: default
           {% endif %}
         </h4>
         <p class="paper-details"> <em>with</em> {{ paper.authors }}</p>
-        <p class="paper-journal">{{ paper.journal }} {% if paper.status %}, <em> {{ paper.status }} </em></p>
+        <p class="paper-journal">{{ paper.journal }} {% if paper.status %}, <em> {{ paper.status }} </em>{% endif %}</p>
         <p class="paper-year">{{ paper.year }}</p>
         <div class="paper-links">
           {% if paper.arxiv %}
