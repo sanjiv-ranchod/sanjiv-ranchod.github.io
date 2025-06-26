@@ -4,7 +4,8 @@ publications:
     authors: "Marcelo Fiore"
     year: 2025
     date: 20250700
-    journal: "In press."
+    status: "In press."
+    journal: "Proceedings of Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)"
     link: "https://arxiv.org/abs/2505.24812"
     arxiv: "https://arxiv.org/abs/2505.24812"
     pdf: "https://arxiv.org/pdf/2505.24812"
