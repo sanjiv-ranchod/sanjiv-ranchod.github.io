@@ -1,5 +1,13 @@
 
 talks:
+  - title: "Single-Variable Substitution for Substructural Theories"
+    event: "LIX Seminar, École Polytechnique"
+    location: "France"
+    upcoming: false
+    year: 2025
+    type: "Invited Seminar Talk"
+    link: "https://www.lix.polytechnique.fr/proofs-algorithms/seminar/"
+
   - title: "Substitution for Substrutural Theories"
     event: "International Category Theory Conference (CT2025)"
     location: "Brno, Czech Republic"
