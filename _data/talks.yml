@@ -2,22 +2,34 @@
 talks:
   - title: "Single-Variable Substitution for Substructural Theories"
     event: "LIX Seminar, École Polytechnique"
-    location: "France"
+    location: "Paris, France"
     upcoming: false
     year: 2025
     date: 20251119
     type: "Invited Seminar Talk"
     link: "https://www.lix.polytechnique.fr/proofs-algorithms/seminar/"
+    slides: "assets/pdf/Polytech_2025_Slides.pdf"
+
+  - title: "Single-Variable Substitution for Substructural Theories"
+    event: "GT Sémantique, IRIF"
+    location: "Paris, France"
+    upcoming: false
+    year: 2026
+    date: 20251118
+    type: "Invited Seminar Talk"
+    link: "https://www.irif.fr/seminaires/semantique/index#"
+    slides: "assets/pdf/IRIF_2025_Slides.pdf"
 
   - title: "Substitution for Substrutural Theories"
     event: "International Category Theory Conference (CT2025)"
     location: "Brno, Czech Republic"
-    upcoming: true
+    upcoming: false
     year: 2025
     date: 20250716
     type: "Contributed Talk"
     link: "https://conference.math.muni.cz/ct2025/"
     abstract: "assets/pdf/CT2025_Abstract.pdf"
+    slides: "assets/pdf/CT2026_Slides.pdf"
 
   - title: "Substructural Abstract Syntax with Variable Binding and Single-Variable Substitution"
     event: "Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)"
